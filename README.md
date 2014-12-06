@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-this is my first repository
+This is my first repository, made in order to finish my Coursera class called The Data Scientist’s Toolbox.
